@@ -1,0 +1,32 @@
+{
+	"name": "promise-quize",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"00": "node src/00.mts",
+		"01": "node src/01.mts",
+		"02": "node src/02.mts",
+		"10": "node src/10.mts",
+		"11": "node src/11.mts",
+		"12": "node src/12.mts",
+		"20": "node src/20.mts",
+		"21": "node src/21.mts",
+		"22": "node src/22.mts",
+		"23": "node src/23.mts",
+		"30": "node src/30.mts",
+		"31": "node src/31.mts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"engines": {
+		"node": ">=23.7.x"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@types/node": "^22.13.5",
+		"typescript": "^5.7.3"
+	}
+}
