@@ -1,3 +1,5 @@
+#!/usr/bin/env node --no-warnings
+
 import assert from "node:assert";
 import { DatabaseSync } from "node:sqlite";
 import test, { after, afterEach, beforeEach } from "node:test";

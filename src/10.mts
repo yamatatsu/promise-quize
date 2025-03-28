@@ -1,3 +1,5 @@
+#!/usr/bin/env node --no-warnings
+
 import { setTimeout } from "node:timers/promises";
 
 console.log(1);
